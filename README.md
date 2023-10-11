@@ -5,9 +5,9 @@
 </h1>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/?username=ronghuaxueleng&theme=tokyonight&layout=compact" width="350"></a>
+  <img src="https://github-readme-stats.vercel.app/api/?username=ronghuaxueleng&theme=tokyonight&layout=compact" width="350">
   <br/>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronghuaxueleng&theme=tokyonight&layout=compact" width="350"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronghuaxueleng&theme=tokyonight&layout=compact" width="350">
 </p>
 
 <p align='center'>
